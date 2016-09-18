@@ -3,11 +3,11 @@ rvm:
 - 2.1
 
 before_script:
- - chmod +x ./automation/cibuild
+ - chmod +x ./automation/cibuild/build.sh
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: ./automation/cibuild
+script: ./automation/cibuild/build.sh
 
 # branch whitelist, only for GitHub Pages
 branches:
