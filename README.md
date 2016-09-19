@@ -1,8 +1,8 @@
 [K-MUG](http://k-mug.net) official website source code
 =================
 
-<img src="https://k-mug.herokuapp.com/badge.svg">
 [![Build Status](https://travis-ci.org/k-mug/k-mug.github.io.svg?branch=master)](https://travis-ci.org/k-mug/k-mug.github.io)
+<img src="https://k-mug.herokuapp.com/badge.svg">
 
 ### About 
 All the geeks of the community can look into contributing to this repo and make this an epic mess :) 

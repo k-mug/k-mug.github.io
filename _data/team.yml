@@ -2,25 +2,67 @@
   id: 0
   name: "Praveen"
   surname: "Nair"
-  title: "XXXXXXXX"
-  thumbnailUrl: xxx.jpg
+  title: "Project Manager & Technology Architect"
+  thumbnailUrl: praveen.jpg
   team: true
   ribbon: 
-    - {abbr: "K-MUG", title: "Kerala Microsoft Users Group"}
+    - {abbr: "Orion", title: "Orion India Systems"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+XXXXXXXX"}
-    - {name: "twitter", link: "https://twitter.com/XXXXXXXX"}
-    - {name: "github", link: "https://github.com/XXXXXXXX"}
-    - {name: "site", link: "http://XXXXXXXX.com/"}
+    - {name: "twitter", link: "https://twitter.com/ninethsense"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ninethsense"}
+    - {name: "site", link: "http://www.ninethsense.com/"}
+- 
+  id: 1
+  name: "Sreejumon"
+  surname: "KP"
+  title: "Senior Software Engineer"
+  thumbnailUrl: sreejumon.jpg
+  team: true
+  ribbon: 
+    - {abbr: "Imprivata", title: "Imprivata"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sreejumon"}
 - 
   id: 2
-  name: "XXXXXXXX"
-  surname: "XXXXXXXX"
-  title: "XXXXXXXX"
-  thumbnailUrl: xxx.jpg
-  subTeam: true
+  name: "Anuraj"
+  surname: "P"
+  title: "Full Stack Developer / Architect"
+  thumbnailUrl: anuraj.jpg
+  team: true
+  ribbon: 
+    - {abbr: "Suyati", title: "Suyati"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+XXXXXXXX"}
-    - {name: "twitter", link: "https://twitter.com/XXXXXXXX"}
-    - {name: "github", link: "https://github.com/XXXXXXXX"}
-    - {name: "site", link: "http://XXXXXXXX.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anurajp"}
+- 
+  id: 3
+  name: "Shalvin"
+  surname: "P D"
+  title: ".NET Trainer and Consultant"
+  thumbnailUrl: shalvin.jpg
+  team: true
+  ribbon: 
+    - {abbr: "Independant", title: "Independant"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/shalvin-p-d-12105417"}
+- 
+  id: 4
+  name: "Yanesh"
+  surname: "Tyagi"
+  title: "AVP - Product Development"
+  thumbnailUrl: yanesh.jpg
+  team: true
+  ribbon: 
+    - {abbr: "Paycommerce", title: "Paycommerce"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yaneshtyagi"}
+- 
+  id: 5
+  name: "Safil"
+  surname: "Sunny"
+  title: "Solutions Architect"
+  thumbnailUrl: safil.jpg
+  team: true
+  ribbon: 
+    - {abbr: "Bridge", title: "Bridge"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/safilsunny"}
