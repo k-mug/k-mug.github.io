@@ -48,7 +48,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {permalink: "/slack/", text: "Join K-MUG"}
 rightNavigationButtons:
@@ -56,10 +55,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout>"
+heroTitle: "Kerala Microsoft Users Group <typeout>"
 eventDate: "July, 2016"
-typeoutTextValues: '"", "Kerala Microsoft Users Group", "Kochi", "Trivandrum", "Kozhikode"'
-typeoutFallback: "Kerala Microsoft Users Group"
+typeoutTextValues: '"", "Kochi", "Trivandrum", "Kozhikode"'
+typeoutFallback: "Kochi"
 heroButtons:
  - {permalink: "/slack/", text: "Join K-MUG"}
  - {link: "http://goo.gl/forms/4SSB3Jg94pYTPcjg1", text: "Take a session"}

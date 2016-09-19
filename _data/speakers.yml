@@ -1,52 +1,35 @@
 - 
   id: 1
-  name: "Rajneesh"
-  surname: "Doe"
-  company: "Orion India Systems"
-  title: "Job title"
-  bio: "So this is a a field where i'm thinking about '"
-  thumbnailUrl: xxx.jpg
+  name: "Shekhar"
+  surname: "Kumar"
+  company: "Orion India Systems Pvt Ltd"
+  title: "Software Developer"
+  bio: "I am a software professional, who love to explore new technologies. In world of technologies, I don't limit myself to a particular area. I love to be jack of all trades. "
+  thumbnailUrl: shekhar.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "K-MUG", title: "Kerala Microsoft Users Group", url: "https://some.com/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+XXXXXXX/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/shekhar-kumar-58818074"}
 - 
   id: 2
-  name: "Naveen"
-  surname: "Doe"
-  company: "Some Company"
-  title: "Job title"
-  bio: "So this is a a field where i'm thinking about '"
-  thumbnailUrl: xxx.jpg
+  name: "Rajneesh"
+  surname: "Verma"
+  company: "Orion India Systems Pvt Ltd"
+  title: "Technical Lead"
+  bio: "Myself having 9+years of experience in computer industry. I have started my career as Hardware Engineer (worked for 1 year) then completed my M.C.A.also done Certification for NIIT and came in the field of Software Development and now I have 7+ years of experience of Software Development with Microsoft .NET Technologies and currently working as Technical Lead at Orion Systems India Pvt. Ltd., Cochin (Kerala)."
+  thumbnailUrl: rajneesh.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "K-MUG", title: "Kerala Microsoft Users Group", url: "https://some.com/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+XXXXXXX/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rajneeshkumarverma"}
 - 
   id: 3
-  name: "Shekhar"
-  surname: "Doe"
-  company: "Orion India Systems"
-  title: "Job title"
-  bio: "So this is a a field where i'm thinking about '"
-  thumbnailUrl: xxx.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "K-MUG", title: "Kerala Microsoft Users Group", url: "https://some.com/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+XXXXXXX/"}
-- 
-  id: 4
   name: "Praseed"
-  surname: "Doe"
-  company: "Some Company"
-  title: "Job title"
-  bio: "So this is a a field where i'm thinking about '"
-  thumbnailUrl: xxx.jpg
+  surname: "Pai"
+  company: "UST Global"
+  title: "Sr. Solutions Architect"
+  bio: "A Software Product Engineering/Re-engineering professional with good Business accumen,Technical competancy and Software Engineering Skills with exposure to shrink wrapped product development , IT services , Application Service Providers, Captives and Staff augmentation."
+  thumbnailUrl: praseed.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "K-MUG", title: "Kerala Microsoft Users Group", url: "https://some.com/"}
+    - {abbr: "K-MUG", title: "Kerala Microsoft Users Group", url: "https://k-mug.net/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+XXXXXXX/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/praseed-pai-k-t-369ba225"}

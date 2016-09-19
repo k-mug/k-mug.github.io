@@ -1,51 +1,48 @@
 -
-  id: 307
+  id: 500
+  title: "Networking and Community Updates"
+  place: "Hall"
+  service: true
+  description: "The best time to network and know whats happeneing in the community"
+-
+  id: 501
   title: "Tea Break and Networking"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Networking & Community Updates"
+  id: 502
+  title: "Ask Experts"
   place: "Hall"
   service: true
+  description: "Ask all the question that you have during the Q&A session, mostly you learn a lot during this session. That's why we put it to the end'"
 -
   id: 001
-  title: "Something Rajneesh"
-  description: "Holly molly this is out of the world and can make things amazing."
+  title: "C# 7.0 - What's new?"
+  description: "<Description>"
   subtype: presentation
   speakers: [1]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/XXXXXXXXX"
-  video: "//www.youtube.com/embed/vXXXXXXXXXXX"
+  presentation: 
+  video: 
 -
   id: 002
-  title: "Oh Naveen"
-  description: "Holly molly this is out of the world and can make things amazing."
+  title: "Web API in .NET Core"
+  description: "<Description>"
   subtype: presentation
   speakers: [2]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/XXXXXXXXX"
-  video: "//www.youtube.com/embed/vXXXXXXXXXXX"
+  presentation: 
+  video: 
 -
   id: 003
-  title: "So Shekhar"
-  description: "Holly molly this is out of the world and can make things amazing."
+  title: "Block chain and its internals"
+  description: "<Description>"
   subtype: presentation
   speakers: [3]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/XXXXXXXXX"
-  video: "//www.youtube.com/embed/vXXXXXXXXXXX"
--
-  id: 004
-  title: "Blockchain and it's internals"
-  description: "Holly molly this is out of the world and can make things amazing."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/XXXXXXXXX"
-  video: "//www.youtube.com/embed/vXXXXXXXXXXX"
+  presentation: 
+  video:

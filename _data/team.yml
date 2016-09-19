@@ -66,3 +66,19 @@
     - {abbr: "Bridge", title: "Bridge"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/safilsunny"}
+- 
+  id: 6
+  name: "Jerric"
+  surname: "Lyns John"
+  title: "Entrepreneur / Technologist"
+  thumbnailUrl: jerric.jpg
+  subTeam: true
+  ribbon: 
+    - {abbr: "CatalanLabs", title: "CatalanLabs Inc."}
+    - {abbr: "SAI", title: "Startup Awards India"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+jerriclynsjohn"}
+    - {name: "twitter", link: "https://twitter.com/jerriclynsjohn"}
+    - {name: "github", link: "https://github.com/jerriclynsjohn"}
+    - {name: "linkedin", link: "https://linkedin.com/in/jerriclynsjohn"}
+    - {name: "site", link: "http://catalanlabs.com/"}
