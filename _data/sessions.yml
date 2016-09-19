@@ -1,13 +1,13 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Go figure!"
+  title: "Tea Break and Networking"
+  place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
   id: 503
-  title: "Lunch Break"
-  place: "On your lap!"
+  title: "Networking & Community Updates"
+  place: "Hall"
   service: true
 -
   id: 001
