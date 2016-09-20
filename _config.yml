@@ -11,13 +11,13 @@ exclude: ['/automation/', '/designfiles/', 'README.md', 'LICENSE.txt', 'CNAME', 
 
 # Site Settings
 title: "Kerala Microsoft Users Group"
-email: "admin@k-mug.org"
+email: "info@k-mug.net"
 description: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies."
 baseurl: ""
-url: "https://k-mug.github.io"
+url: "https://k-mug.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-XXXXXXXX-X"
-googleAnalyticsSiteUrl: "k-mug.github.io"
+googleAnalyticsSiteUrl: "k-mug.net"
 siteVerification: "XXXXXXXXXXXXXX"
 
 # Organizer Info
@@ -26,18 +26,17 @@ organizerAlternateName: "K-MUG"
 organizerDescription: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies. We create exciting projects and share experience about Microsoft technology with passion."
 organizerEmail: "admin@k-mug.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://kmug.org/"
+organizerLink: "http://kmug.net/"
 
 # Head
 metaKeywords: "event, kmug, k-mug, devfest, microsoft, programming, windows, azure, developers, kerala, technical, community"
-twitterAccount: "@XXXXXX"
+twitterAccount: "@k_mug"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/4SSB3Jg94pYTPcjg1"
-c4sponsorsUrl: "XXXXXXXXXXXXXXXXXXX"
 
 
 # Navigation
@@ -45,9 +44,10 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/slack/", text: "Slack"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/events/", text: "Events"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/#footer", text: "Contact"}
 bottomNavigationLinks:
  - {permalink: "/slack/", text: "Join K-MUG"}
 rightNavigationButtons:
@@ -55,13 +55,14 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Kerala Microsoft Users Group <typeout>"
-eventDate: "July, 2016"
+heroTitle: "K-MUG <typeout>"
+eventDate: "Year round events on everything technology!"
 typeoutTextValues: '"", "Kochi", "Trivandrum", "Kozhikode"'
 typeoutFallback: "Kochi"
 heroButtons:
  - {permalink: "/slack/", text: "Join K-MUG"}
  - {link: "http://goo.gl/forms/4SSB3Jg94pYTPcjg1", text: "Take a session"}
+ - {link: "http://www.eventbrite.com/o/kerala-microsoft-users-group-101822805", text: "Attend an event"}
 
 # About Block
 aboutTitle: "About K-MUG"
@@ -90,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Orion India Systems, Meeting Hall"
-eventLocationLink: "http://k-mug.org/logistics/"
+eventLocationLink: "http://k-mug.net/logistics/"
 eventStreetAddress: "103, Tejomaya"
 eventAddressLocality: "Infopark, Kochi"
 eventAddressLocalityRegion: "Kerala"
@@ -126,7 +127,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://XXXXXXX.us5.list-manage1.com/subscribe/post?u=XXXXXXXXXXXX&amp;id=XXXXXX"
+subscribeAction: "//k-mug.us14.list-manage.com/subscribe/post?u=796c687dbe93130ef8e89d3c0&amp;id=c3f7b3e004"
 subscribeInfo: "We will announce more details about our events. Stay tuned!"
 
 # Tickets Block
@@ -152,7 +153,6 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/XXXXXXXXXXXXXX", icon: "google-plus"}
  - {link: "https://twitter.com/k_mug", icon: "twitter"}
  - {link: "https://facebook.com/TeamKmug/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -168,7 +168,9 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:admin@k-mug.org", text: "admin@k-mug.org"}
+   - {link: "mailto:info@k-mug.net", text: "info@k-mug.net"}
+   - {link: "tel:9645889033", text: "Call Praveen"}
+   - {link: "tel:9746565890", text: "Call Anuraj"}
  -
   title: "FAQ"
   links:
@@ -186,44 +188,4 @@ showSessions: true
 teamBlockTitle: "About us"
 aboutUs: "K-MUG is one of the most successful technical community in India, which focus on Microsoft Technologies. Participation in K-MUG is an excellent, inexpensive way to receive technical content, education and to meet with peers to get more out of the Microsoft platforms, products, technologies, and resources. K-MUG is managed by the K-MUG Community Council (CC) , and more details about the CC be located here."
 
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "10.010003, 76.365947"
-logisticsMapMobileCenterCoordinates: "10.010003, 76.365947"
-logisticsMapAutoDirections: true
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Kochi"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is pretty close. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://cial.aero/">airport website</a>.'}
- - {title: "Public Transit", information: 'Well we have KSRTC and the private guys. Moreover, you can use uber or ola to make it easy.'}
- - {title: "Hotels", information: 'Cochin has lots of great hotels and hostels. We think you should Bing.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "http://www.marriott.com/hotels/travel/cokmc-kochi-marriott-hotel/", text: "Marriot"}
-     - {link: "http://www.lemeridienkochi.com/", text: "Le Meridian"}
-     - {link: "https://www.google.co.in/search?q=hotels+in+cochin", text: "Bla bla"}
-   -
-    title: "Registration"
-    links:
-     - {link: "http://www.meetup.com/Kerala-Microsoft-Technology-Meetup/", text: "Meetup"}
-     - {link: "www.eventbrite.com/o/kerala-microsoft-users-group-101822805", text: "EventBright"}
-   -
-    title: "Misc"
-    links:
-     - {link: "https://google.com", text: "Laptop"}
-     - {link: "https://google.com", text: "Business Cards"}
-     - {link: "https://google.com", text: "Whatever!"}
 
