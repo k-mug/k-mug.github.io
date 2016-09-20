@@ -62,7 +62,7 @@ typeoutFallback: "Kochi"
 heroButtons:
  - {permalink: "/slack/", text: "Join K-MUG"}
  - {link: "http://goo.gl/forms/4SSB3Jg94pYTPcjg1", text: "Take a session"}
- - {link: "http://www.eventbrite.com/o/kerala-microsoft-users-group-101822805", text: "Attend an event"}
+ - {link: "http://k-mug.eventbrite.com/", text: "Attend an event"}
 
 # About Block
 aboutTitle: "About K-MUG"
