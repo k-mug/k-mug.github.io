@@ -58,6 +58,9 @@
     - {abbr: "Paycommerce", title: "Paycommerce"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/yaneshtyagi"}
+    - {name: "twitter", link: "https://twitter.com/yaneshtyagi"}
+    - {name: "github", link: "https://github.com/yaneshtyagi"}
+    - {name: "site", link: "https://yaneshtyagi.wordpress.com/"}   
 - 
   id: 5
   name: "Safil"
