@@ -16,7 +16,7 @@ description: "K-MUG is one of the most successful technical communities in India
 baseurl: ""
 url: "https://k-mug.net"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-XXXXXXXX-X"
+googleAnalyticsTrackingId: "UA-84710058-1"
 googleAnalyticsSiteUrl: "k-mug.net"
 siteVerification: "XXXXXXXXXXXXXX"
 
