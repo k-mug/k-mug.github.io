@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/events/", text: "Events"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/live/", text: "Live"}
+ - {link: "http://www.youtube.com/channel/UC-aE2GkdeltmzL4T9VfzTJg/live", text: "Live"}
  - {permalink: "/#footer", text: "Contact"}
 bottomNavigationLinks:
  - {permalink: "/slack/", text: "Join K-MUG"}
