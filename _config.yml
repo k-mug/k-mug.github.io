@@ -24,7 +24,7 @@ siteVerification: "XXXXXXXXXXXXXX"
 organizerName: "Kerala Microsoft Users Group"
 organizerAlternateName: "K-MUG"
 organizerDescription: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies. We create exciting projects and share experience about Microsoft technology with passion."
-organizerEmail: "admin@k-mug.org"
+organizerEmail: "info@k-mug.net"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://kmug.net/"
 
@@ -179,7 +179,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "XXXXXXXXX"
+discusShortName: "k-mug"
 
 # Speakers List Block
 showSessions: true
