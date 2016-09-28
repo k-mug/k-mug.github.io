@@ -63,8 +63,8 @@
     - {name: "site", link: "https://yaneshtyagi.wordpress.com/"}   
 - 
   id: 5
-  name: "Abhilash Ashok"
-  surname: "Abhilash"
+  name: "Abhilash"
+  surname: "Ashok"
   title: "Technical Team Lead at IdentityMine"
   thumbnailUrl: abhilash.jpg
   team: true
