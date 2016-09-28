@@ -63,15 +63,15 @@
     - {name: "site", link: "https://yaneshtyagi.wordpress.com/"}   
 - 
   id: 5
-  name: "Safil"
-  surname: "Sunny"
-  title: "Solutions Architect"
-  thumbnailUrl: safil.jpg
+  name: "Abhilash Ashok"
+  surname: "Abhilash"
+  title: "Technical Team Lead at IdentityMine"
+  thumbnailUrl: abhilash.jpg
   team: true
   ribbon: 
-    - {abbr: "Bridge", title: "Bridge"}
+    - {abbr: "IdentityMine", title: "IdentityMine"}
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/safilsunny"}
+    - {name: "linkedin", link: "https://in.linkedin.com/in/abhilashca"}
 - 
   id: 6
   name: "Jerric"
