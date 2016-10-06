@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/slack/", text: "Slack"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/events/", text: "Events"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {link: "http://k-mug.eventbrite.com/", text: "Events"}
  - {permalink: "/team/", text: "Team"}
  - {link: "http://www.youtube.com/channel/UC-aE2GkdeltmzL4T9VfzTJg/live", text: "Live"}
  - {permalink: "/#footer", text: "Contact"}
