@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Kochi", "Trivandrum", "Kozhikode"'
 typeoutFallback: "Kochi"
 heroButtons:
  - {permalink: "/slack/", text: "Join K-MUG"}
- - {permalink: "/live/", text: "Attend Live"}
+ - {link: "http://www.youtube.com/channel/UC-aE2GkdeltmzL4T9VfzTJg/live", text: "Attend Live"}
 
 # About Block
 aboutTitle: "About K-MUG"
