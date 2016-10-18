@@ -4,20 +4,7 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.aboutTitle }}</h3>
             <div class="row about-details">
-                {% assign animationDelay = 0 %}
-                {% for about in site.aboutBlock %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <p>{{ about.text }}</p>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
+                K-MUG is one of the most successful technical community in India, which focus on Microsoft Technologies. Microsoft recognized the efforts made in building the community by selecting K-MUG as the Best Developer User group for Tier 2 cities as part of the Community Impact Awards for 2010. K-MUG is active community based out of Kerala which started its activities around 8 years ago and regularly conducts events across Kerala targeting both professionals and students.
             </div>
         </div>
     </div>
