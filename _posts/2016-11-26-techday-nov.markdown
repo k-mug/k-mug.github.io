@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Techday Sept 2016"
+title:  "Techday November 2016"
 date:   2016-11-26 00:00:00
 isStaticPost: false
 ---
