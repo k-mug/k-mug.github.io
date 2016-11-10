@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Techday November 2016"
-date:   2016-11-26 00:00:00
+date:   2016-11-10 00:00:00
 isStaticPost: false
 ---
 ## K-MUG TECHDAY NOVEMBER 2016
