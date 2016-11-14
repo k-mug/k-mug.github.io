@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Connect(); // 2016"
+date:   2016-11-14 00:00:00
+isStaticPost: false
+---
 Connect() dev event streamed live this Wed: [https://connectevent.microsoft.com/](https://connectevent.microsoft.com/).
 
 Join Microsoft’s Connect(); 2016 live stream to watch keynotes and deep dive technical sessions led by Executive Vice President Scott Guthrie, Principal Program Manager Scott Hanselman, and other industry innovators.
