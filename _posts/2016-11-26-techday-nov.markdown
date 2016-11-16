@@ -6,6 +6,8 @@ isStaticPost: false
 ---
 ## K-MUG TECHDAY NOVEMBER 2016
 
+<img src="{{ site.baseurl }}/img/posts/techday-nov.jpg" style="width:100%; height:100%; margin:auto" alt="K-MUG Techday November" />
+
 Agenda
 
 * 9:45 AM - 10:00 AM - Networking and Community Updates
