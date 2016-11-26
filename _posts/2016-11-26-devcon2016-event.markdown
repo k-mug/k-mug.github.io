@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Techday November 2016"
+date:   2016-11-26 00:00:00
+isStaticPost: false
+---
+## K-MUG DEVCON 2016
+
+<img src="{{ site.baseurl }}/img/posts/devcon2016.jpg" style="width:100%; height:100%; margin:auto" alt="K-MUG DEVCON 2016" />
+
+Hello Developers
+
+We are happy to announce that we are doing a full day event, K-MUG DEVCON 2016 @ Thiruvananthapuram next week. 
+
+DEVCON is one of the premier developer conference happening in Kerala every year for some time. Aptly titled K-MUG DEVCON 2016 is happening on December 3, 2016 at the Zentih Hall, 6th Floor, Bhavani, Technopark, Thiruvananthapuram. DEVCON 2016 will help you to engage and collaborate with Microsoft MVPs and developers, build connections and learn about the Microsoft’s cutting edge technologies from the industry experts. DEVCON is one of the largest and popular developer conference of it's kind in Kerala, attracting a lot of tech professionals every year. Conducted by Kerala Microsoft Usergroup(K-MUG) every year, thousands of attendees have benefited from the platform since the event began in 2010. 
+
+You can find more details about the event in the [K-MUG DEVCON 2016 Website](http://devcon2016.k-mug.net/).  
+
+Agenda
+
+* 08:30 AM - 09:15 AM	Registration, Community Updates, Networking	 
+* 09:15 AM - 09:30 AM	Inaguration Ceremony	 
+* 09:30 AM - 10:15 AM	Keynote Address
+* 10:15 AM - 11:00 AM	Microsoft Cognitive Services
+* 11:00 AM - 11:15 AM	Coffee Break	 
+* 11:15 AM - 12:15 PM	Functional Programming & Design Patterns
+* 12:15 PM - 01:15 PM	Introduction to Cortana Intelligence
+* 01:15 PM - 02:00 PM	Lunch Break	 
+* 02:00 PM - 04:00 PM	"Visual Studio Code + Angular 2 + TypeScript = Native Mobile Apps"
+* 04:00 AM - 04:15 AM	Coffee Break	 
+* 04:15 PM - 04:45 PM	Azure Mobile Apps
+* 04:45 PM - 05:15 PM	Visual Studio 2017 - What's new ?
+* 05:15 PM - 05:30 PM	Closing Ceremony
+
+Venue
+
+ZENITH HALL, 
+6th Floor, Bhavani 
+Technopark, Thiruvananthapuram 
+Kerala, India
+
+Meet you there :)
