@@ -165,6 +165,14 @@ layout: compress
                 $('#myModalLabel').text($img.attr('alt'));
                 $('#imagemodal').modal('show');
             });
+            $('#imagemodal').on('show.bs.modal', function () {
+                $(".modal-backdrop.in").hide();
+                $(this).find('.modal-body').css({
+                    width:'auto', 
+                    height:'auto', 
+                    'max-height':'100%'
+                });
+            });
         });
         </script>
     {% endif %}
