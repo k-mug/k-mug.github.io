@@ -166,8 +166,7 @@ layout: compress
                 $('#imagemodal').modal('show');
             });
             $('#imagemodal').on('show.bs.modal', function () {
-                console.log('Okay it is displayed');
-                $(".modal-backdrop .fade .in").hide();
+                $(".modal-backdrop").hide();
                 $(this).find('.modal-body').css({
                     width:'auto', 
                     height:'auto', 
