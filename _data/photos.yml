@@ -6,3 +6,23 @@
     - { url : "/img/events/techday-nov-2016/3.jpeg", title : "Abhilash Ashok on Augmented Reality" }
     - { url : "/img/events/techday-nov-2016/4.jpeg", title : "Praveen on Introduction to Cloud computing" }
     - { url : "/img/events/techday-nov-2016/5.jpeg", title : "Ask the Experts Session" }
+    - { url : "/img/events/techday-nov-2016/6.jpg", title : "Techday Nov Poster" }
+-
+  name : "K-MUG dotnetconf 2016"
+  photos :
+    - { url : "/img/events/dotnet-conf-2016/1.jpg", title : "Jerric and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/3.jpg", title : "Amal and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/4.jpg", title : "Alok and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/5.jpg", title : "Praveen and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/6.jpg", title : "Shekhar and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/7.jpg", title : "Praseed and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/8.jpg", title : "Jerric and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/9.jpg", title : "Abhilash and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/10.jpg", title : "Vijith and Shalvin" }
+    - { url : "/img/events/dotnet-conf-2016/11.jpg", title : "dotnetconf 2016 poster" }
+-
+  name : "Machine Learning Day - July 2016"
+  photos :
+    - { url : "/img/events/mlday-july-2016/1.jpg", title : "Praseed on Machine Learning" }
+    - { url : "/img/events/mlday-july-2016/2.jpg", title : "Praseed on Machine Learning" }
+    - { url : "/img/events/mlday-july-2016/3.jpg", title : "Machine Learning Day Poster" }
