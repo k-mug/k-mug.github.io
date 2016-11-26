@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {link: "http://k-mug.eventbrite.com/", text: "Events"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/gallery/", text: "Photo Gallery"}
  - {link: "http://www.youtube.com/channel/UC-aE2GkdeltmzL4T9VfzTJg/live", text: "Live"}
  - {permalink: "/#footer", text: "Contact"}
 bottomNavigationLinks:
