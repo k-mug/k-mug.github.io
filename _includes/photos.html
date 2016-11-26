@@ -1,0 +1,54 @@
+<!-- Begin Team List-->
+<section id="team" class="team">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>Event Photos</h3>
+        </div>
+        {% for photo in site.data.photos limit:2 %}
+        <li>
+            {{ photo.name }}
+            <div class="row">
+                {% for img in photo.photos %}
+                    <div class="col-xs-6 col-md-3">
+                        <img class="thumbnail" src="{{ img.url }}" alt="{{ img.title }}" />
+                    </div>
+                {% endfor %}
+            </div>
+        </li>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Team List -->
+
+<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                </button>
+                <h4 class="modal-title" id="myModalLabel">Image preview</h4>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <img src="http://dotnetthoughts.net/favicon.ico" alt="Image Preview" id="imagepreview">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+$(function() {
+    $('img').click(function() {
+        var $img = $(this);
+        $('#imagepreview').attr('src', $img.attr('src'));
+        $('#myModalLabel').text($img.attr('alt'));
+        $('#imagemodal').modal('show');
+    });
+});
+</script>
