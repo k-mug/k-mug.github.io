@@ -17,7 +17,7 @@ If someone is bothering you, please tell K-MUG Community Council immediately and
 * Strictly NO discussions on topics related to Politics, age, gender, sex, and religion.
 * No personal attack.
 
-### K-MUG Community Council
+##### K-MUG Community Council
 
 You can contact K-MUG Community Council via email : [mail@k-mug.net](mailto:mail@k-mug.net)
 
