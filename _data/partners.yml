@@ -1,8 +1,9 @@
 - 
   group: "General sponsor"
   elements: 
+    - {name: "Jetbrains", description: "JetBrains: Development Tools for Professionals and Teams", link: "https://www.jetbrains.com/", imageUrl: "logo_JetBrains_3.png"}
     - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com", imageUrl: "microsoft.svg"}
-    - {name: "Progress", description: "Progress", link: "https://www.progress.com/", imageUrl: "Progress.png"}
+    - {name: "Progress", description: "Empowering Organizations Through Digital Transformation - Progress", link: "https://www.progress.com/", imageUrl: "Progress.png"}
 - 
   group: "With support of"
   elements: 
