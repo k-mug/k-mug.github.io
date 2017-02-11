@@ -12,7 +12,7 @@ image: schedule.jpg
             <td>Event Name</td>
             <td>URL</td>
         </tr>
-        {% assign sorted = (site.events | sort: 'eventOrder') %}
+        {% assign sorted = (site.events | sort: 'eventOrder' | reverse) %}
         {% for event in sorted %}
             <tr>
                 <td>{{ event.eventDate }}</td>
