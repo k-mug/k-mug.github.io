@@ -1,4 +1,13 @@
 -
+  name : "Techday January 2016"
+  photos :
+    - { url : "/img/events/techday-jan-2017/6.jpg", title : "Techday January Poster" }
+    - { url : "/img/events/techday-jan-2017/1.jpg", title : "Abhilash on Office 365 Development" }
+    - { url : "/img/events/techday-jan-2017/2.jpg", title : "Praseed on BlockChain" }
+    - { url : "/img/events/techday-jan-2017/3.jpg", title : "Shalvin on Angular and asp.net core" }
+    - { url : "/img/events/techday-jan-2017/4.jpg", title : "Sarath on JVM vs .NET CLR" }
+    - { url : "/img/events/techday-jan-2017/5.jpg", title : "Praseed" }
+-
   name : "Techday December 2016"
   photos :
     - { url : "/img/events/techday-dec-2016/0.jpg", title : "Techday Dec Poster" }

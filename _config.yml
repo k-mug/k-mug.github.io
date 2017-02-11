@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/slack/", text: "Slack"}
  - {permalink: "/blog/", text: "Blog"}
- - {link: "http://k-mug.eventbrite.com/", text: "Events"}
+ - {permalink: "/events/", text: "Events"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/gallery/", text: "Photo Gallery"}
  - {link: "http://www.youtube.com/channel/UC-aE2GkdeltmzL4T9VfzTJg/live", text: "Live"}
@@ -188,4 +188,7 @@ showSessions: true
 teamBlockTitle: "About us"
 aboutUs: "K-MUG is one of the most successful technical community in India, which focus on Microsoft Technologies. Participation in K-MUG is an excellent, inexpensive way to receive technical content, education and to meet with peers to get more out of the Microsoft platforms, products, technologies, and resources. K-MUG is managed by the K-MUG Community Council (CC) , and more details about the CC be located here."
 
-
+collections:
+  events:
+    output: true
+    permalink: /events/:path/

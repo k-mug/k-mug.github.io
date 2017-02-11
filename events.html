@@ -1,10 +1,26 @@
----
-layout: default
+--- 
+layout: default 
 title: Events
-permalink: /events/
+permalink: /events/ 
 image: schedule.jpg
 ---
-
 {% include top-section.html %}
-
-{% include events.html %}
+<div class="col-lg-10 col-lg-offset-1 text-center">
+    <table class="table table-bordered table-hover">
+        <tr>
+            <td>Date</td>
+            <td>Event Name</td>
+            <td>URL</td>
+        </tr>
+        {% assign sorted = (site.events | sort: 'eventOrder') %}
+        {% for event in sorted %}
+            <tr>
+                <td>{{ event.eventDate }}</td>
+                <td>{{ event.title }}</td>
+                <td><a href="{{ event.url }}">More details</a></td>
+            </tr>
+        {% endfor %}
+        <tr>
+            <td colspan="3"><a href="http://k-mug.eventbrite.com/">Click here to find more about K-MUG old events</a></td></tr>
+    </table>
+</div>
