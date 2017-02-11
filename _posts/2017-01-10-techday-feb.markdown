@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Techday January 2017"
-date:   2017-01-10 00:00:00
+title:  "Techday February 2017"
+date:   2017-02-11 00:00:00
 isStaticPost: false
 ---
-## K-MUG TECHDAY January 2017
+## K-MUG TECHDAY February 2017
 
 Agenda
 
@@ -23,4 +23,4 @@ Orion India Systems Pvt. Ltd
 Infopark, Kakkanad, Kochi
 India, 682042
 
-For registration and more details - [Techday Feb 2017 Registration Page](https://kmugtechdayfeb2017.eventbrite.com/)
+For registration and more details - [Techday February 2017 Registration Page](https://kmugtechdayfeb2017.eventbrite.com/)
