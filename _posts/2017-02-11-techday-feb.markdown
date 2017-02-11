@@ -10,7 +10,7 @@ Agenda
 
 * 9:30 AM - 9:45 AM - Networking and Community Updates
 * 9:45 AM - 10:30 AM - Windows IoT Core - Yanesh Tyagi
-* 10:30 AM - 11:15 AM - ASP.NET Core and Angular - Shalvin
+* 10:30 AM - 11:15 AM - Angular 2 with .NET - Shalvin
 * 11:15 AM - 11:25 AM - Tea Break and Networking
 * 11:25 AM - 12:00 PM - Introduction to DevOps - Praveen
 * 12:00 PM - 12:40 PM - ASP.NET and Docker - Anuraj

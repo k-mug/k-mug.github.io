@@ -10,7 +10,7 @@ image: '../events/techday-feb-2017/6.jpg'
         <tr><td colspan="2"><h5>Agenda</h5></td></tr>
         <tr><td class="col-md-6">9:30 AM - 9:45 AM</td><td class="col-md-6">Networking and Community Updates</td></tr>
         <tr><td class="col-md-6">9:45 AM - 10:30 AM</td><td class="col-md-6">Windows IoT Core - Yanesh Tyagi</td></tr>
-        <tr><td class="col-md-6">10:30 AM - 11:15 AM</td><td class="col-md-6">ASP.NET Core and Angular - Shalvin</td></tr>
+        <tr><td class="col-md-6">10:30 AM - 11:15 AM</td><td class="col-md-6">Angular 2 with .NET - Shalvin</td></tr>
         <tr><td class="col-md-6">11:15 AM - 11:25 AM</td><td class="col-md-6">Tea Break and Networking</td></tr>
         <tr><td class="col-md-6">11:25 AM - 12:00 PM</td><td class="col-md-6">Introduction to DevOps - Praveen</td></tr>
         <tr><td class="col-md-6">12:00 PM - 12:40 PM</td><td class="col-md-6">ASP.NET and Docker - Anuraj</td></tr>
