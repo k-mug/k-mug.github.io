@@ -14,7 +14,7 @@ title: "Kerala Microsoft Users Group"
 email: "info@k-mug.net"
 description: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies."
 baseurl: ""
-url: "https://k-mug.net"
+url: "http://k-mug.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-84710058-1"
 googleAnalyticsSiteUrl: "k-mug.net"
@@ -160,7 +160,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://k-mug.org", text: "Kerala Microsoft Users Group"}
+   - {link: "http://k-mug.net", text: "Kerala Microsoft Users Group"}
    - {link: "https://msdn.microsoft.com", text: "MSDN"}
    - {link: "https://technet.microsoft.com/", text: "Technet"}
    - {link: "https://mva.microsoft.com/", text: "Microsoft Virtual Academy"}
