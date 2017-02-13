@@ -20,7 +20,7 @@ image: '../events/techday-feb-2017/6.jpg'
         <tr><td colspan="2"><h5>Speakers</h5></td></tr>
         <tr><td class="col-md-3">
             <img src="../../img/people/yanesh.jpg" alt="Yanesh" style="width:140px; height:140px" class="img-thumbnail" />
-        </td><td class="col-md-9 text-justify"></td></tr>
+        </td><td class="col-md-9 text-justify">Yanesh Tyagi - AVP, Product Development - PayCommerce Inc. </td></tr>
          <tr><td class="col-md-3">
             <img src="../../img/people/shalvin.jpg" alt="Shalvin" style="width:140px; height:140px" class="img-thumbnail" />
         </td><td class="col-md-9 text-justify">Shalvin PD is working as Independent .NET Corporate Trainer and Consultant with more than 15 years of experience is Microsoft Technolgies. Specializing in ASP .NET, WPF, Silverlight, Sharepoint, Entity Framework, etc. Actively associates with Microsoft User Group movement in Kerala from its very inception. He is a frequent speaker, blogger and a .Net enthusiast.  He blogs at http://shalvinpd.blogspot.in/.</td></tr>
