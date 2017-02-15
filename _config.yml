@@ -11,7 +11,7 @@ exclude: ['/automation/', '/designfiles/', 'README.md', 'LICENSE.txt', 'CNAME', 
 
 # Site Settings
 title: "Kerala Microsoft Users Group"
-email: "info@k-mug.net"
+email: "mail@k-mug.net"
 description: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies."
 baseurl: ""
 url: "http://k-mug.net"
@@ -62,6 +62,7 @@ typeoutTextValues: '"", "Kochi", "Trivandrum", "Kozhikode"'
 typeoutFallback: "Kochi"
 heroButtons:
  - {permalink: "/slack/", text: "Join K-MUG"}
+ - {permalink: "/events/", text: "Upcoming Events"}
  - {link: "http://www.youtube.com/channel/UC-aE2GkdeltmzL4T9VfzTJg/live", text: "Attend Live"}
 
 # About Block
@@ -168,7 +169,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@k-mug.net", text: "info@k-mug.net"}
+   - {link: "mailto:mail@k-mug.net", text: "mail@k-mug.net"}
    - {link: "tel:9645889033", text: "Call Praveen"}
    - {link: "tel:9746565890", text: "Call Anuraj"}
  -
