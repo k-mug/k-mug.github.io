@@ -2,6 +2,7 @@
 layout: events
 title: K-MUG TechDay February 2017
 eventDate : 18th February 2017
+date : 2017-02-18
 eventOrder: 2
 image: '../events/techday-feb-2017/6.jpg'
 ---
