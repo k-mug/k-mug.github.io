@@ -2,6 +2,7 @@
 layout: events
 title: Dev Confluence 2017
 eventDate : 25th February 2017
+date : 2017-02-25
 eventOrder: 3
 ---
 
