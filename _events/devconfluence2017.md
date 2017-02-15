@@ -1,0 +1,8 @@
+---
+layout: events
+title: DevConfluence
+eventDate : 25th February 2017
+eventOrder: 3
+---
+
+## For more details and registration - [http://devconf2017.k-mug.net/](http://devconf2017.k-mug.net/)
