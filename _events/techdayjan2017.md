@@ -2,6 +2,7 @@
 layout: events
 title: K-MUG TechDay January 2017
 eventDate : 21st January 2017
+date : 2017-01-21
 eventOrder: 1
 image: '../events/techday-jan-2017/6.jpg'
 ---
