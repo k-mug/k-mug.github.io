@@ -44,4 +44,25 @@ image: '../events/techday-feb-2017/6.jpg'
     <table class="table">
         <tr><td colspan="2"><h5><a href="https://kmugtechdayfeb2017.eventbrite.com">Register</a></h5></td></tr>
     </table>
+    <table class="table">
+        <tr><td colspan="2"><h5>Photos</h5></td></tr>
+        <tr><td colspan="2">
+        {% assign photos = (site.data.photos | where: "name" , "Techday February 2017") %}
+        {% for photo in photos %}
+            <div id="{{ photo.name | replace:' ','-' }}"></div><br/><br/>
+            <div class="col-lg-10 col-lg-offset-1">
+            <h4>{{ photo.name }}</h4>
+            </div>
+
+            <div class="row">
+            {% for img in photo.photos %}
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-thumbnail" style="cursor:pointer" 
+                        src="{{ img.url }}" alt="{{ img.title }}" />
+                </div>
+            {% endfor %}
+            </div>
+        {% endfor %}
+        </td></tr>
+    </table>
 </div>
