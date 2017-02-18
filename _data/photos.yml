@@ -3,7 +3,6 @@
   photos :
     - { url : "/img/events/techday-feb-2017/6.jpg", title : "Techday February Poster" }
     - { url : "/img/events/techday-feb-2017/1.jpeg", title : "Anuraj on Dockerizing ASP.NET Apps" }
-    - { url : "/img/events/techday-feb-2017/2.jpeg", title : "Attendees" }
     - { url : "/img/events/techday-feb-2017/3.jpeg", title : "Small Memento for speakers from Orion India Systems" }
     - { url : "/img/events/techday-feb-2017/4.jpeg", title : "Praveen about K-MUG" }
     - { url : "/img/events/techday-feb-2017/5.jpeg", title : "Shalvin on ASP.NET and Angular" }
