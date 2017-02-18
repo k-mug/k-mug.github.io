@@ -41,7 +41,7 @@ image: '../events/techday-jan-2017/6.jpg'
 <table class="table">
         <tr><td colspan="2"><h5>Photos</h5></td></tr>
         <tr><td colspan="2">
-        {% assign photos = (site.data.photos | where: "name" , "Techday January 2016") %}
+        {% assign photos = (site.data.photos | where: "name" , "Techday January 2017") %}
         {% for photo in photos %}
             <div id="{{ photo.name | replace:' ','-' }}"></div><br/><br/>
             <div class="col-lg-10 col-lg-offset-1">
