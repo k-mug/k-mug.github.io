@@ -14,7 +14,7 @@ image: '../events/vs2017lauch/vs2017.jpg'
         <tr><td colspan="2"><h5>Agenda</h5></td></tr>
         <tr><td class="col-md-6">9:30 AM - 9:45 AM</td><td class="col-md-6">Networking and Community Updates</td></tr>
         <tr><td class="col-md-6">9:45 AM - 10:45 AM</td><td class="col-md-6">What's new in Visual Studio 2017 - Amal Dev</td></tr>
-        <tr><td class="col-md-6">10:45 AM - 11:30 AM</td><td class="col-md-6">Developing dotnet core applications with dotnet CLI - Anuraj</td></tr>
+        <tr><td class="col-md-6">10:45 AM - 11:30 AM</td><td class="col-md-6">.NET Productivity Improvements in Visual Studio 2017 - Anuraj</td></tr>
         <tr><td class="col-md-6">11:30 AM - 11:45 PM</td><td class="col-md-6">Tea Break and Networking</td></tr>
         <tr><td class="col-md-6">11:45 AM - 12:30 PM</td><td class="col-md-6">TBD</td></tr>
         <tr><td class="col-md-6">12:40 PM - 1 PM</td><td class="col-md-6">Ask Experts - Q&amp;A Session</td></tr>
