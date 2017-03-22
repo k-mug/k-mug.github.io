@@ -8,9 +8,9 @@ image: schedule.jpg
 <div class="col-lg-10 col-lg-offset-1 text-center">
     <table class="table table-bordered table-hover">
         <tr>
-            <td>Date</td>
-            <td>Event Name</td>
-            <td>URL</td>
+            <td><strong>Date</strong></td>
+            <td><strong>Event Name</strong></td>
+            <td><strong>URL</strong></td>
         </tr>
         {% assign sorted = (site.events | sort: 'eventOrder' | reverse) %}
         {% for event in sorted %}
