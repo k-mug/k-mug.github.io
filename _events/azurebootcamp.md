@@ -13,7 +13,7 @@ For registration and more details - [https://azurebootcamp2017.eventbrite.com](h
 <script>
 window.onload = function() {
     setTimeout(function() {
-        window.location = "http://azurebootcamp2017.k-mug.net";
+        window.location.replace("http://azurebootcamp2017.k-mug.net");
     }, 50);
 };
 </script>
