@@ -4,7 +4,7 @@ title: K-MUG TechDay June 2017
 eventDate : 17th June 2017
 date : 2017-06-17
 eventOrder: 7
-image: '../events/techday-june-2017/banner.jpg'
+image: '../events/techday-june-2017/banner.png'
 ---
 <div class="col-lg-10 col-lg-offset-1 text-center">
     <table class="table">
