@@ -32,7 +32,7 @@ image: '../events/techday-june-2017/banner.png'
             <div class="thumbnail">
       <img src="/img/events/techday-june-2017/abhilash.jpg" alt="Abhilash Ashok">
       <div class="caption">
-        <h3>Abhilash Ashok</h3>
+        <h3>Abhilash</h3>
         </div>
         </div>
         </td>
