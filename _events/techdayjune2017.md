@@ -22,7 +22,7 @@ image: '../events/techday-june-2017/banner.png'
         <tr>
         <td class="col-md-4">
             <div class="thumbnail">
-      <img src="../techday-june-2017/alok.jpg" alt="Alok">
+      <img src="/events/techday-june-2017/alok.jpg" alt="Alok">
       <div class="caption">
         <h3>Alok</h3>
         </div>
@@ -30,7 +30,7 @@ image: '../events/techday-june-2017/banner.png'
         </td>
         <td class="col-md-4">
             <div class="thumbnail">
-      <img src="../techday-june-2017/abhilash.jpg" alt="Alok">
+      <img src="/events/techday-june-2017/abhilash.jpg" alt="Alok">
       <div class="caption">
         <h3>Abhilash Ashok</h3>
         </div>
@@ -39,7 +39,7 @@ image: '../events/techday-june-2017/banner.png'
         <td class="col-md-4">
         
         <div class="thumbnail">
-      <img src="../techday-june-2017/jithin.jpg" alt="Alok">
+      <img src="/events/techday-june-2017/jithin.jpg" alt="Alok">
       <div class="caption">
         <h3>Jithin M S</h3>
         </div>
