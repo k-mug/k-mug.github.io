@@ -25,6 +25,7 @@ image: '../events/techday-june-2017/banner.png'
       <img src="/img/events/techday-june-2017/alok.jpg" alt="Alok">
       <div class="caption">
         <h3>Alok</h3>
+        <p>Introdution to Bot Framework</p>
         </div>
         </div>
         </td>
@@ -33,6 +34,7 @@ image: '../events/techday-june-2017/banner.png'
       <img src="/img/events/techday-june-2017/abhilash.jpg" alt="Abhilash Ashok">
       <div class="caption">
         <h3>Abhilash</h3>
+        <p>Mixed Reality using HoloLens</p>
         </div>
         </div>
         </td>
@@ -42,6 +44,7 @@ image: '../events/techday-june-2017/banner.png'
       <img src="/img/events/techday-june-2017/jithin.jpg" alt="Jithin M S">
       <div class="caption">
         <h3>Jithin M S</h3>
+        <p>Augumented Reality</p>
         </div>
         </div>
         
