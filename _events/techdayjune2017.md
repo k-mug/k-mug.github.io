@@ -18,6 +18,21 @@ image: '../events/techday-june-2017/banner.png'
         <tr><td class="col-md-6">01:15-01:20</td><td class="col-md-6">Vote of Thanks</td></tr>
     </table>
     <table class="table">
+        <tr><td colspan="3"><h5>Speakers</h5></td></tr>
+        <tr>
+        <td class="col-md-4">
+            <div class="thumbnail">
+      <img src="../events/techday-june-2017/alok.jpg" alt="Alok">
+      <div class="caption">
+        <h3>Alok</h3>
+        </div>
+        </div>
+        </td>
+        <td class="col-md-4"></td>
+        <td class="col-md-4"></td>
+        </tr>
+    </table>
+    <table class="table">
         <tr><td colspan="2"><h5>Venue</h5></td></tr>
         <tr><td colspan="2">
         Orion India Systems Pvt. Ltd
