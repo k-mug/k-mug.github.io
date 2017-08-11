@@ -21,6 +21,9 @@ eventOrder: 9
         <tr><td class="col-md-6">03:30 PM - 03:45 PM</td><td class="col-md-6">Vote of Thanks</td></tr>
     </table>
     <table class="table">
+        <tr><td colspan="2"><h5>19th August 2017</h5></td></tr>
+    </table>
+    <table class="table">
         <tr><td colspan="2"><h5>Venue</h5></td></tr>
         <tr><td colspan="2">
         Orion India Systems Pvt. Ltd
