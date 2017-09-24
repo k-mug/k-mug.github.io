@@ -85,7 +85,7 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 See [list of contributors](https://github.com/k-mug/k-mug.github.io/graphs/contributors)
 
-Maintainers: [@jerriclynsjohn](https://github.com/jerriclynsjohn) and [@anuraj](https://github.com/anuraj).
+Maintainers: [@anuraj](https://github.com/anuraj).
 
 
 
