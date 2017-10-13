@@ -4,18 +4,65 @@ title: K-MUG TechDay - Saturday 21 October 2017
 eventDate : 21st October 2017
 date : 2017-10-21
 eventOrder: 11
+image: '../events/techday-oct-2017/banner.jpg'
 ---
 
-
-<table border="1"> 
-<tr><td>09:30-09:45</td><td>Registration & Networking     </td><td>                   </td></tr>
-<tr><td>09:45-11:00</td><td>Umbraco CMS                   </td><td> by Abhilash Ashok </td></tr>
-<tr><td>11:00-11:15</td><td>Coffee & Networking Break     </td><td>                   </td></tr>
-<tr><td>11:15-12:15</td><td>Machine Learning -Pros & Cons </td><td> by Praseed Pai    </td></tr>
-<tr><td>12:15-01:30</td><td>Angular Programming           </td><td> by Shalvin P D    </td></tr>
-<tr><td>01:30-02:00</td><td>Ask the experts               </td><td> Team              </td></tr>
+<div class="col-lg-10 col-lg-offset-1 text-center">
+  <table class="table"> 
+  <tr>
+      <td colspan="2"><h5>Agenda</h5></td>
+  </tr>
+  <tr>
+      <td class="col-md-6">9:30 AM - 9:45 AM</td>
+      <td class="col-md-6">Registration & Networking</td>
+  </tr>
+  <tr>
+    <td class="col-md-6">9:45 AM - 11:00 AM</td>
+    <td class="col-md-6">Umbraco CMS - Abhilash Ashok</td>
+  </tr>
+  <tr>
+    <td class="col-md-6">11:00 AM - 11:15 AM</td>
+    <td class="col-md-6">Coffee & Networking Break</td>
+  </tr>
+  <tr>
+    <td class="col-md-6">11:15 AM - 12:15 PM</td>
+    <td class="col-md-6">Machine Learning: Pros & Cons - Praseed Pai</td>
+  </tr>
+  <tr>
+    <td class="col-md-6">12:15 PM - 01:30 PM</td>
+    <td class="col-md-6">Angular Programming - Shalvin P D</td>
+  </tr>
+  <tr>
+    <td class="col-md-6">01:30 PM - 02:00 PM</td>
+    <td class="col-md-6">Ask the experts - Team</td>
+  </tr>
 </table>
-
-- Ticket Fee: Rs. 100/- (inclusive of taxes)<br>
-- Registration: <a href="http://k-mug.net/register">http://k-mug.net/register</a>
-
+    <table class="table">
+        <tr><td colspan="2"><h5>Ticket Fee: Rs. 100/- (inclusive of taxes)</h5></td></tr>
+    </table>
+    <table class="table">
+        <tr><td colspan="2"><h5>Register @ <a href="http://k-mug.net/register">http://k-mug.net/register</a></h5></td></tr>
+    </table>
+        <table class="table">
+        <tr><td colspan="2"><h5>Venue</h5></td></tr>
+        <tr><td colspan="2">
+        <h3>Orion India Systems Pvt. Ltd</h3>
+        2nd Floor, LuLu Cyber Tower
+        Infopark, Kakkanad, Kochi
+        India, 682042
+        </td></tr>
+    </table>
+<table class="table">
+        <tr>
+            <td colspan="2"><h5>Speakers</h5></td></tr>
+        <tr><td class="col-md-3">
+            <img src="../../img/people/abhilash.jpg" alt="Abhilash" style="width:140px; height:140px" class="img-thumbnail" />
+        </td><td class="col-md-9 text-justify">Abhilash Ashok is a passionate Microsoft Technology Enthusiast working as User Experience Lead at Identitymine, Kochi. He has 8 years of rich experience in Microsoft Technologies. His area of expertise includes Windows Phone, Windows Store, Kinect for Windows, Xamarin, WPF, ASP.NET and legacy technologies like Windows Forms. He blogs at <a href="http://cametoofar.com/" target="_blank">cametoofar.com</a>.</td></tr>
+         <tr><td class="col-md-3">
+            <img src="../../img/people/shalvin.jpg" alt="Shalvin" style="width:140px; height:140px" class="img-thumbnail" />
+        </td><td class="col-md-9 text-justify">Shalvin PD is working as Independent .NET Corporate Trainer and Consultant with more than 15 years of experience is Microsoft Technolgies. Specializing in ASP .NET, WPF, Silverlight, Sharepoint, Entity Framework, etc. Actively associates with Microsoft User Group movement in Kerala from its very inception. He is a frequent speaker, blogger and a .Net enthusiast.  He blogs at <a href="http://shalvinpd.blogspot.in/" target="_blank">shalvinpd.blogspot.in</a>.</td></tr>
+        <tr><td class="col-md-3">
+            <img src="../../img/people/praseed.jpg" alt="Praseed" style="width:140px; height:140px" class="img-thumbnail" />
+        </td><td class="col-md-9 text-justify">Praseed Pai, a Software Product Engineering/Re-engineering professional with good Business accumen, Technical competancy and Software Engineering Skills with exposure to shrink wrapped product development, IT services, Application Service Providers, Captives and Staff augmentation. <a href="http://slangfordotnet.codeplex.com/" target="_blank">SLANGFORDOTNET</a>.</td></tr>        
+    </table>
+</div>
