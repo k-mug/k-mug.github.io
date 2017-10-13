@@ -7,6 +7,8 @@ eventOrder: 11
 ---
 
 ###Agenda
+|Time|Activity|Owner|
+|----|--------|-----|
 | 09:30-09:45 | Registration & Networking     |                   |
 | 09:45-11:00 | Umbraco CMS                   |by Abhilash Ashok  |
 | 11:00-11:15 | Coffee & Networking Break     |                   |
