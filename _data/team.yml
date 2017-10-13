@@ -23,20 +23,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/sreejumon"}
 - 
-  id: 2
-  name: "Anuraj"
-  surname: "P"
-  title: "Full Stack Developer / Technical Architect"
-  thumbnailUrl: anuraj.jpg
-  team: true
-  ribbon: 
-    - {abbr: "Suyati", title: "Suyati Technologies"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anurajp"}
-    - {name: "twitter", link: "https://twitter.com/anuraj"}
-    - {name: "github", link: "https://github.com/anuraj"}
-    - {name: "site", link: "http://dotnetthoughts.net/"}
-- 
   id: 3
   name: "Shalvin"
   surname: "P D"
