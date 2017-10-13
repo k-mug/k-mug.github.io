@@ -5,11 +5,9 @@ eventDate : 21st October 2017
 date : 2017-10-21
 eventOrder: 11
 ---
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+<table border="1">
+  <tr><td>First Header</td><td>Second Header</tr>
+</table>
 ---
 |Time|Activity|Owner|
 |----|--------|-----|
