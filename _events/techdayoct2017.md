@@ -6,7 +6,6 @@ date : 2017-10-21
 eventOrder: 11
 ---
 
-###Agenda
 ---
 |Time|Activity|Owner|
 |----|--------|-----|
