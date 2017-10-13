@@ -15,9 +15,7 @@ eventOrder: 11
 <tr><td>12:15-01:30</td><td>Angular Programming           </td><td> by Shalvin P D    </td></tr>
 <tr><td>01:30-02:00</td><td>Ask the experts               </td><td> Team              </td></tr>
 </table>
-<br />
-<br />
 
 - Ticket Fee: Rs. 100/- (inclusive of taxes)<br>
-- Registration: http://k-mug.net/register
+- Registration: <a href="http://k-mug.net/register">http://k-mug.net/register</a>
 
