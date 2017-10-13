@@ -5,9 +5,8 @@ eventDate : 21st October 2017
 date : 2017-10-21
 eventOrder: 11
 ---
----
-###Agenda
----
+
+
 <table border="1"> 
 <tr><td>09:30-09:45</td><td>Registration & Networking     </td><td>                   </td></tr>
 <tr><td>09:45-11:00</td><td>Umbraco CMS                   </td><td> by Abhilash Ashok </td></tr>
@@ -18,7 +17,7 @@ eventOrder: 11
 </table>
 <br />
 <br />
----
-- Ticket Fee: Rs. 100/- (inclusive of taxes)
+
+- Ticket Fee: Rs. 100/- (inclusive of taxes)<br>
 - Registration: http://k-mug.net/register
----
+
