@@ -58,11 +58,11 @@ image: '../events/techday-oct-2017/banner.jpg'
         <tr><td class="col-md-3">
             <img src="../../img/people/abhilash.jpg" alt="Abhilash" style="width:140px; height:140px" class="img-thumbnail" />
         </td><td class="col-md-9 text-justify">Abhilash Ashok is a passionate Microsoft Technology Enthusiast working as User Experience Lead at Identitymine, Kochi. He has 8 years of rich experience in Microsoft Technologies. His area of expertise includes Windows Phone, Windows Store, Kinect for Windows, Xamarin, WPF, ASP.NET and legacy technologies like Windows Forms. He blogs at <a href="http://cametoofar.com/" target="_blank">cametoofar.com</a>.</td></tr>
+          <tr><td class="col-md-3">
+            <img src="../../img/people/praseed.jpg" alt="Praseed" style="width:140px; height:140px" class="img-thumbnail" />
+        </td><td class="col-md-9 text-justify">Praseed Pai, a Software Product Engineering/Re-engineering professional with good Business accumen, Technical competancy and Software Engineering Skills with exposure to shrink wrapped product development, IT services, Application Service Providers, Captives and Staff augmentation. <a href="http://slangfordotnet.codeplex.com/" target="_blank">SLANGFORDOTNET</a>.</td></tr> 
          <tr><td class="col-md-3">
             <img src="../../img/people/shalvin.jpg" alt="Shalvin" style="width:140px; height:140px" class="img-thumbnail" />
-        </td><td class="col-md-9 text-justify">Shalvin PD is working as Independent .NET Corporate Trainer and Consultant with more than 15 years of experience is Microsoft Technolgies. Specializing in ASP .NET, WPF, Silverlight, Sharepoint, Entity Framework, etc. Actively associates with Microsoft User Group movement in Kerala from its very inception. He is a frequent speaker, blogger and a .Net enthusiast.  He blogs at <a href="http://shalvinpd.blogspot.in/" target="_blank">shalvinpd.blogspot.in</a>.</td></tr>
-        <tr><td class="col-md-3">
-            <img src="../../img/people/praseed.jpg" alt="Praseed" style="width:140px; height:140px" class="img-thumbnail" />
-        </td><td class="col-md-9 text-justify">Praseed Pai, a Software Product Engineering/Re-engineering professional with good Business accumen, Technical competancy and Software Engineering Skills with exposure to shrink wrapped product development, IT services, Application Service Providers, Captives and Staff augmentation. <a href="http://slangfordotnet.codeplex.com/" target="_blank">SLANGFORDOTNET</a>.</td></tr>        
+        </td><td class="col-md-9 text-justify">Shalvin PD is working as Independent .NET Corporate Trainer and Consultant with more than 15 years of experience is Microsoft Technolgies. Specializing in ASP .NET, WPF, Silverlight, Sharepoint, Entity Framework, etc. Actively associates with Microsoft User Group movement in Kerala from its very inception. He is a frequent speaker, blogger and a .Net enthusiast.  He blogs at <a href="http://shalvinpd.blogspot.in/" target="_blank">shalvinpd.blogspot.in</a>.</td></tr>       
     </table>
 </div>
