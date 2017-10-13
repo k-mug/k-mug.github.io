@@ -1,6 +1,6 @@
 ---
 layout: events
-title: K-MUG TechDay October 2017
+title: K-MUG TechDay - Saturday 21 October 2017
 eventDate : 21st October 2017
 date : 2017-10-21
 eventOrder: 11
