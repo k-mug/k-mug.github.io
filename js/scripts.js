@@ -1,6 +1,7 @@
 (function($) {
     $(document).ready(function() {
         $(window).load(function() {
+            setTimeout(function(){$('#myModal').modal('show');}, 2000);
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();
             $('#preloader').delay(350).fadeOut(800);
