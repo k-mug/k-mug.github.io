@@ -38,9 +38,6 @@ image: '../events/techday-oct-2017/banner.jpg'
   </tr>
 </table>
     <table class="table">
-        <tr><td colspan="2"><h5>Ticket Fee: Rs. 100/- (inclusive of taxes)</h5></td></tr>
-    </table>
-    <table class="table">
         <tr><td colspan="2"><h5>Register @ <a href="http://k-mug.net/register">http://k-mug.net/register</a></h5></td></tr>
     </table>
         <table class="table">
