@@ -1,4 +1,11 @@
 -
+  name : "Techday October 2017"
+  photos :
+    - { url : "/img/events/techday-oct-2017/1.jpg", title : "Abhilash Ashok" }
+    - { url : "/img/events/techday-oct-2017/3.jpg", title : "Praseed Pai" }
+    - { url : "/img/events/techday-oct-2017/7.jpg", title : "Shalvin Abraham" }
+    
+-
   name : "Techday February 2017"
   photos :
     - { url : "/img/events/techday-feb-2017/6.jpg", title : "Techday February Poster" }
