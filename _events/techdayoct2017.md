@@ -62,4 +62,25 @@ image: '../events/techday-oct-2017/banner.jpg'
             <img src="../../img/people/shalvin.jpg" alt="Shalvin" style="width:140px; height:140px" class="img-thumbnail" />
         </td><td class="col-md-9 text-justify">Shalvin PD is working as Independent .NET Corporate Trainer and Consultant with more than 15 years of experience is Microsoft Technolgies. Specializing in ASP .NET, WPF, Silverlight, Sharepoint, Entity Framework, etc. Actively associates with Microsoft User Group movement in Kerala from its very inception. He is a frequent speaker, blogger and a .Net enthusiast.  He blogs at <a href="http://shalvinpd.blogspot.in/" target="_blank">shalvinpd.blogspot.in</a>.</td></tr>       
     </table>
+    <table class="table">
+        <tr><td colspan="2"><h5>Photos</h5></td></tr>
+        <tr><td colspan="2">
+        {% assign photos = (site.data.photos | where: "name" , "Techday October 2017") %}
+        {% for photo in photos %}
+            <div id="{{ photo.name | replace:' ','-' }}"></div><br/><br/>
+            <div class="col-lg-10 col-lg-offset-1">
+            <h4>{{ photo.name }}</h4>
+            </div>
+
+            <div class="row">
+            {% for img in photo.photos %}
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-thumbnail" style="cursor:pointer" 
+                        src="{{ img.url }}" alt="{{ img.title }}" />
+                </div>
+            {% endfor %}
+            </div>
+        {% endfor %}
+        </td></tr>
+    </table>
 </div>
