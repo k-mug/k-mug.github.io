@@ -34,7 +34,7 @@ image: '../events/techday-nov-2017/banner.jpg'
   </tr>
 </table>
     <table class="table">
-        <tr><td colspan="2"><h5>Register @ <a href="http://goo.gl/xHNQZ4">http://k-mug.net/register</a></h5></td></tr>
+        <tr><td colspan="2"><h5>Register @ <a href="http://goo.gl/xHNQZ4" target="_blank">http://k-mug.net/register</a></h5></td></tr>
     </table>
         <table class="table">
         <tr><td colspan="2"><h5>Venue</h5></td></tr>
